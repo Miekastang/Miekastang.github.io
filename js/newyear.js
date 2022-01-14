@@ -5,7 +5,7 @@
 //function get fortune with math.random
 
 function getFortune (str){
-var value = Math.floor(Math.random() * 81);;
+var value = Math.floor(Math.random() * 76);;
   if (value == 0){
     return "You will buy a new gold water bottle.";
   }
