@@ -234,7 +234,7 @@ var value = Math.floor(Math.random() * 81);;
     else if (value == 75){
       return "You will have a pet frog.";
     }
-    else if (value == 76){
+    else (value == 76){
       return "You will learn to speak mouse.";
     }
 }
