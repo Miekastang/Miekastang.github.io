@@ -7,235 +7,148 @@
 function getFortune (str){
 var value = Math.floor(Math.random() * 76);;
   if (value == 0){
-    return "You will buy a new gold water bottle.";
+    return "You will see somebody that you can love.";
   }
   else if (value == 1){
-    return "You will have a great day and you will get some cookies and cake and love and hearts and hearts and hearts!";
+    return "You will learn how to talk to cheetahs.";
   }
   else if (value == 2){
-    return "You will write your own song and you will sing it to the world.";
+    return "You will build the biggest bicycle.";
   }
   else if (value == 3){
-    return "You will explore cheetahs and see baby cheetahs.";
+    return "You will swim with dolphins.";
   }
   else if (value == 4){
-    return "You will see a mermaid.";
+    return "You love cats.";
   }
   else if (value == 5){
-    return "You will see Princess Daisy.";
+    return "You could build a big scooter.";
   }
    else if (value == 6){
-      return "You will go to Hawaii and see people and water slides. There’s also an ocean.";
+      return "You will ride on a unicorn.";
     }
     else if (value == 7){
-      return "You will get more LEGO sets.";
+      return "You’re awesome.";
     }
     else if (value == 8){
-      return "You will get toys and money.";
+      return "May you have a wonderful day.";
     }
     else if (value == 9){
-      return "You will go to Colorado and see a big pool.";
+      return "You will speak one Tagalog word.";
     }
     else if (value == 10){
-      return "You will see so many unicorns in Unicorn Land!";
+      return "You will light up other people’s day.";
     }
     else if (value == 11){
-      return "You will see lots of Minions.";
+      return "You will take dance classes.";
     }
     else if (value == 12){
-      return "You will go to Tahoe.";
+      return "Love will grow inside of you.";
     }
     else if (value == 13){
-      return "You will go to the beach and find shells.";
+      return "You will build the coolest fort ever.";
     }
     else if (value == 14){
-      return "You will plant a tree.";
+      return "You are loved.";
     }
     else if (value == 15){
-      return "You will find a map at the store and it will take you to an elevator. The elevator will take you down a deep hole and you will find a mummy that is nice.";
+      return "I love you.";
     }
     else if (value == 16){
-      return "You will get new rain boots.";
+      return "You will be kind and generous.";
     }
     else if (value == 17){
-      return "You will go to the jungle and see a tiger.";
+      return "You will speak Chinese.";
     }
     else if (value == 18){
-      return "You will go to Paris with your family and see the King and the Queen.";
+      return "You will build the biggest tree house with a painted door and doorbell.";
     }
     else if (value == 19){
-      return "You will go to Disneyland and meet Disney Princesses.";
+      return "You will swim with some fishes in an underground sea tank.";
     }
     else if (value == 20){
-      return "You will go to Disneyland in Paris.";
+      return "You love fishes.";
     }
     else if (value == 21){
-      return "You will go to the zoo and see little bears.";
+      return "You will have a blanket on your bed that lights up.";
     }
     else if (value == 22){
-      return "You will have an allowance and buy more toys.";
+      return "You will build the coolest thing out of LEGOs.";
     }
     else if (value == 23){
-      return "You will make friends with a unicorn.";
+      return "You will sew a beautiful dress if you want it.";
     }
     else if (value == 24){
-      return "You will find a nice monster and then you dance with it.";
+      return "You will learn to speak mouse.";
     }
     else if (value == 25){
-      return "You will get a cookie with a fortune in it.";
+      return "You will learn to speak like a tiger.";
     }
     else if (value == 26){
-      return "You will get toy cars and stuff.";
+      return "People will say fun facts about you every morning.";
     }
     else if (value == 27){
-      return "You will find dolphins and swim and jump with them.";
+      return "You will build the biggest house in the whole wide world with a mouse on top for a toy.";
     }
     else if (value == 28){
-      return "You will swim with a sea turtle and have fun with them.";
+      return "You will build a huge square with dogs balancing on it.";
     }
     else if (value == 29){
-      return "You will love your mom and dad.";
+      return "You will build the biggest classroom in the whole world.";
     }
     else if (value == 30){
-      return "You will find a gift.";
+      return "You will build the biggest sparkle in the world.";
     }
     else if (value == 31){
-      return "Everything wonderful from the world will come to you.";
+      return "You will whisper “unicorn.”";
     }
     else if (value == 32){
-      return "You will have gifts in the new year.";
+      return "You will be the best mommy in the whole wide universe.";
     }
     else if (value == 33){
-      return "You will live a wonderful life in the world.";
+      return "You will build the biggest Transformer.";
     }
     else if (value == 34){
-      return "I hope you buy new pants.";
+      return "You will build the biggest flag in the world.";
     }
     else if (value == 35){
-      return "You will have too much love (I love you too much!).";
+      return "You can find the most precious thing on earth.";
     }
     else if (value == 36){
-      return "Someone will give you flowers.";
+      return "Rock will light up your day.";
     }
     else if (value == 37){
-      return "You will buy flowers.";
+      return "You will get the biggest puzzle.";
     }
     else if (value == 38){
-      return "You will get a Santa doll with presents.";
+      return "You will build the biggest castle in the world.";
     }
     else if (value == 39){
-      return "You will love your brother.";
+      return "You will build the coolest house ever.";
     }
     else if (value == 40){
-      return "Your birthday will come up soon.";
+      return "You will sew the most beautiful dress ever.";
     }
     else if (value == 41){
-      return "You will hang out with friends.";
+      return "You will build the biggest and prettiest robot.";
     }
     else if (value == 42){
-      return "Your lucky number is 5013.";
+      return "You will build the biggest planet Jupiter.";
     }
     else if (value == 43){
-      return "You will ride a unicorn on your birthday and fly on it.";
+      return "You will have your favorite stuffy in the world.";
     }
     else if (value == 44){
-      return "You will buy new underwear.";
+      return "You are beautiful.";
     }
     else if (value == 45){
-      return "You will make new friends.";
+      return "You will make the biggest bow ever.";
     }
     else if (value == 46){
-      return "You will buy new books.";
-    }
-    else if (value == 47){
-      return "You will get a new cat that doesn’t poop in the cat box as soon as you clean it.";
-    }
-    else if (value == 48){
-      return "You will love yourself.";
-    }
-    else if (value == 49){
-      return "You will see golden eggs.";
-    }
-    else if (value == 50){
-      return "You will find snow and play in it.";
-    }
-    else if (value == 51){
-      return "You will see 100 rainbows.";
-    }
-    else if (value == 52){
-      return "Your lucky letters will be LOL.";
-    }
-    else if (value == 53){
-      return "You will have friends standing beside you every day.";
-    }
-    else if (value == 54){
-      return "You will have the best day ever on your birthday.";
-    }
-    else if (value == 55){
-      return "You will love your best friend.";
-    }
-    else if (value == 56){
-      return "You will go to 100 parks.";
-    }
-    else if (value == 57){
-      return "You will slide down a pole (and up too!)";
-    }
-    else if (value == 58){
-      return "You will go in an airplane and see ice cream falling from the sky.";
-    }
-    else if (value == 59){
-      return "You will get more candy at Halloween.";
-    }
-    else if (value == 60){
-      return "You will get a giant gingerbread house from the store.";
-    }
-    else if (value == 61){
-      return "Your room will be filled with stuffies.";
-    }
-    else if (value == 62){
-      return "A dragon will be friends with you.";
-    }
-    else if (value == 63){
-      return "You will get a playground at the back of your house.";
-    }
-    else if (value == 64){
-      return "On your birthday you will get cupcakes and cake and so many friends to play with you.";
-    }
-    else if (value == 65){
-      return "You will play with yarn.";
-    }
-    else if (value == 66){
-      return "You will be able to talk to animals.";
-    }
-    else if (value == 67){
-      return "You will be happy being a king or queen.";
-    }
-    else if (value == 68){
-      return "You will get a pet dog.";
-    }
-    else if (value == 69){
-      return "You will find a rainbow or a unicorn.";
-    }
-    else if (value == 70){
-      return "You will get a cat and play with it.";
-    }
-    else if (value == 71){
-      return "You will blast off into space with my brother.";
-    }
-    else if (value == 72){
-      return "You will love your parents so much!";
-    }
-    else if (value == 73){
-      return "You will love your baby sister.";
-    }
-    else if (value == 74){
-      return "You will find a map and it will take you to the secret jungle.";
-    }
-    else if (value == 75){
-      return "You will have a pet frog.";
+      return "You will sew a little puppet.";
     }
     else {
-      return "You will learn to speak mouse.";
+      return "You will find the biggest treasure ever.";
     }
 }
 
