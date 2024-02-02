@@ -7,7 +7,7 @@
 function getFortune (str){
 var value = Math.floor(Math.random() * 47);;
   if (value == 0){
-    return "You will see somebody that you can love.";
+    return "happy birthday";
   }
   else if (value == 1){
     return "You will learn how to talk to cheetahs.";
